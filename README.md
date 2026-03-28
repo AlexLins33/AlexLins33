@@ -16,4 +16,4 @@ Meu atual foco é continuar me desenvolvendo em Python e Html e adquirir experi�
   ----
   SafeVault(Gerenciador e gerador de credenciais)
 
-📫 **Como me encontrar:** [Seu LinkedIn aqui] | [linsalex33@gmail.com]
+📫 Como me encontrar: [www.linkedin.com/in/alex-lins-1013apw] | [linsalex33@gmail.com]
